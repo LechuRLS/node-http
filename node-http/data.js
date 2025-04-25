@@ -1,3 +1,4 @@
+console.log("funciona")
 const pageData = {
     title: "Mi Página Web",
     subtitle: "Aprendiendo Node.js y HTTP",
